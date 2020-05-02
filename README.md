@@ -1,4 +1,6 @@
 # ICOM 4035/CIIC 4020 Data Structures Fall 2019
+Edited and reviewed by Alex Agosto.
+
 Repo for code presented in the lectures of the class. Each folder is an Eclipse Project, which you can import
 as follows:
 
